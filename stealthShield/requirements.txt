@@ -2,3 +2,5 @@ psutil
 watchdog
 requests
 flask
+wmi
+pywin32

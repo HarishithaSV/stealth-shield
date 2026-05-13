@@ -23,3 +23,36 @@
 [2025-07-11 05:29:34.331852] Modified: C:\Users\santh\Downloads\isaiDub.me_-_IronHeart_2025_Season_01_Epi_02_.mp4
 [2025-07-11 05:29:46.937241] Modified: C:\Users\santh\Downloads\DDDD.mp4
 [2025-07-18 21:04:47.164227] Modified: C:\Users\santh\Downloads\desktop.ini
+[2026-04-06 17:35:37.226538] Created: C:\Users\harsh\Downloads\EDRFeRar.zip
+[2026-04-06 17:35:39.726254] Created: C:\Users\harsh\Downloads\EDRFeRar.zip.part
+[2026-04-06 17:35:43.503880] Modified: C:\Users\harsh\Downloads\EDRFeRar.zip.part
+[2026-04-06 17:35:46.033721] Created: C:\Users\harsh\Downloads\stealth-shield-main.zip
+[2026-04-06 17:35:47.968210] Modified: C:\Users\harsh\Downloads\EDRFeRar.zip.part
+[2026-04-06 17:35:50.645895] Modified: C:\Users\harsh\Downloads\stealth-shield-main.QRSp92xU.zip.part
+[2026-04-06 17:35:53.460073] Modified: C:\Users\harsh\Downloads\stealth-shield-main.zip
+[2026-04-06 17:35:55.826059] Modified: C:\Users\harsh\Downloads\Documents\desktop.ini
+[2026-04-06 17:35:59.461388] Modified: C:\Users\harsh\Downloads\EmbedUR\desktop.ini
+[2026-04-06 17:36:01.525111] Modified: C:\Users\harsh\Downloads\Pictures\desktop.ini
+[2026-04-06 17:36:03.788524] Modified: C:\Users\harsh\Downloads\eclipse-inst-jre-win64.exe
+[2026-04-06 17:36:05.715076] Modified: C:\Users\harsh\Downloads\jdk-25_windows-x64_bin.exe
+[2026-04-06 17:41:44.247270] Modified: C:\Users\harsh\Downloads\desktop.ini
+[2026-04-06 18:42:13.124963] Modified: C:\Users\harsh\Downloads\desktop.ini
+[2026-04-06 19:26:38.928433] Modified: C:\Users\harsh\Downloads\Documents\desktop.ini
+[2026-04-06 19:26:41.133008] Modified: C:\Users\harsh\Downloads\EmbedUR\desktop.ini
+[2026-04-06 19:26:43.065248] Modified: C:\Users\harsh\Downloads\Pictures\desktop.ini
+[2026-04-06 19:28:20.493639] Modified: C:\Users\harsh\Downloads\eclipse-inst-jre-win64.exe
+[2026-04-06 19:28:22.413025] Modified: C:\Users\harsh\Downloads\jdk-25_windows-x64_bin.exe
+[2026-04-06 19:30:53.065419] Modified: C:\Users\harsh\Downloads\SQL Day 2 Queries.docx
+[2026-04-06 19:30:54.856757] Modified: C:\Users\harsh\Downloads\ayursutra (1)
+[2026-04-06 19:30:56.904414] Modified: C:\Users\harsh\Downloads\ayursutra (1)\node_modules
+[2026-04-06 19:30:58.599475] Modified: C:\Users\harsh\Downloads\Telegram Desktop
+[2026-04-06 19:31:00.425564] Modified: C:\Users\harsh\Downloads\ayursutra (1)\node_modules\lucide-react
+[2026-04-06 19:31:02.208514] Modified: C:\Users\harsh\Downloads\ayursutra (1)\node_modules\lucide-react\dist
+[2026-04-06 19:31:04.208566] Modified: C:\Users\harsh\Downloads\ayursutra (1)\node_modules\lucide-react\dist\esm
+[2026-04-06 19:31:06.256563] Modified: C:\Users\harsh\Downloads\ayursutra (1)\node_modules\lucide-react\dist\esm\icons
+[2026-04-06 19:31:08.030340] Modified: C:\Users\harsh\Downloads\IMG_5335.MOV
+[2026-04-06 19:31:09.942599] Modified: C:\Users\harsh\Downloads\Moviesda.Mobi_-_Little_Hearts_2025_Original_1080p_HD.mp4
+[2026-04-06 19:32:56.284805] Modified: C:\Users\harsh\Downloads\ayursutra (1)\node_modules\next\dist\server\typescript\rules\metadata.d.ts
+[2026-04-06 19:32:58.395106] Modified: C:\Users\harsh\Downloads\reciept cit payment.png
+[2026-04-06 19:33:00.331527] Modified: C:\Users\harsh\Downloads\HSV_CERTIFICATES-20260127T035348Z-3-001\HSV_CERTIFICATES\HarishithaSV_IBM_Skillbuild_badge.png
+[2026-04-06 19:55:28.363469] Modified: C:\Users\harsh\Downloads\desktop.ini

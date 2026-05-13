@@ -1,8 +1,8 @@
 import requests
 
 # Replace with your actual token and chat_id
-BOT_TOKEN = "7323061668:AAGQ58F8WuGF7AkfOAxpemG0Yl6DZRTbMyE"
-CHAT_ID = "5397479187"
+BOT_TOKEN = "8665578250:AAGFgJUFMPE1BeX8TvM4_97ljIDgmEAS1TY"
+CHAT_ID = "1341672672"
 
 def send_alert(message):
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
@@ -11,12 +11,13 @@ def send_alert(message):
         'text': message
     }
     try:
-        requests.post(url, data=payload)
+        response = requests.post(url, data=payload)
+        print("📡 Telegram response:", response.text)   # 👈 ADD THIS
     except Exception as e:
-        print(f"Failed to send alert: {e}")
+        print(f"❌ Failed to send alert: {e}")
 
 def send_video(video_path, caption="🎥 Motion Captured"):
-    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendVideo"
+    url = f"https://api.telegram.org/bot8665578250:AAGFgJUFMPE1BeX8TvM4_97ljIDgmEAS1TY/sendVideo"
     try:
         with open(video_path, 'rb') as video:
             files = {'video': video}

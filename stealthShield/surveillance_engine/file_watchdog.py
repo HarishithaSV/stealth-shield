@@ -7,7 +7,7 @@ import os
 from alert_system.telegram_bot import send_alert
 
 LOG_FILE = "logs/file_log.txt"
-WATCH_DIR = "C:\\Users\\santh\\Downloads"  # Now monitoring Downloads folder
+WATCH_DIR = os.path.join(os.path.expanduser("~"), "Downloads")  # Monitor current user's Downloads
 
 class WatcherHandler(FileSystemEventHandler):
     def on_modified(self, event):
